@@ -4,3 +4,10 @@ D:\StudySpace\VisualCSharp\IllustratedCSharp2012FourthEdition\Chapter08\16_typeo
 D:\StudySpace\VisualCSharp\IllustratedCSharp2012FourthEdition\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.csproj.CoreCompileInputs.cache
 D:\StudySpace\VisualCSharp\IllustratedCSharp2012FourthEdition\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.exe
 D:\StudySpace\VisualCSharp\IllustratedCSharp2012FourthEdition\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\bin\Debug\16_typeofOperator.exe.config
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\bin\Debug\16_typeofOperator.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\bin\Debug\16_typeofOperator.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter08\16_typeofOperator\obj\Debug\16_typeofOperator.pdb

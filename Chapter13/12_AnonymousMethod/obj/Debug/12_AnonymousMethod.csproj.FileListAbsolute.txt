@@ -1,0 +1,6 @@
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter13\12_AnonymousMethod\bin\Debug\12_AnonymousMethod.exe.config
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter13\12_AnonymousMethod\bin\Debug\12_AnonymousMethod.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter13\12_AnonymousMethod\bin\Debug\12_AnonymousMethod.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter13\12_AnonymousMethod\obj\Debug\12_AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter13\12_AnonymousMethod\obj\Debug\12_AnonymousMethod.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter13\12_AnonymousMethod\obj\Debug\12_AnonymousMethod.pdb

@@ -1,0 +1,7 @@
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\bin\Debug\2_EnumFlag.exe.config
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\bin\Debug\2_EnumFlag.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\bin\Debug\2_EnumFlag.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\obj\Debug\2_EnumFlag.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\obj\Debug\2_EnumFlag.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\obj\Debug\2_EnumFlag.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter11\2_EnumFlag\obj\Debug\2_EnumFlag.csprojAssemblyReference.cache
