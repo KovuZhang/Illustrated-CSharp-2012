@@ -1,6 +1,0 @@
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_1_ObsoleteAttribute\bin\Debug\6_1_ObsoleteAttribute.exe.config
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_1_ObsoleteAttribute\bin\Debug\6_1_ObsoleteAttribute.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_1_ObsoleteAttribute\bin\Debug\6_1_ObsoleteAttribute.pdb
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_1_ObsoleteAttribute\obj\Debug\6_1_ObsoleteAttribute.csproj.CoreCompileInputs.cache
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_1_ObsoleteAttribute\obj\Debug\6_1_ObsoleteAttribute.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_1_ObsoleteAttribute\obj\Debug\6_1_ObsoleteAttribute.pdb

@@ -1,6 +1,0 @@
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter09\15_2_UsingStatement\bin\Debug\15_2_UsingStatement.exe.config
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter09\15_2_UsingStatement\bin\Debug\15_2_UsingStatement.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter09\15_2_UsingStatement\bin\Debug\15_2_UsingStatement.pdb
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter09\15_2_UsingStatement\obj\Debug\15_2_UsingStatement.csproj.CoreCompileInputs.cache
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter09\15_2_UsingStatement\obj\Debug\15_2_UsingStatement.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter09\15_2_UsingStatement\obj\Debug\15_2_UsingStatement.pdb

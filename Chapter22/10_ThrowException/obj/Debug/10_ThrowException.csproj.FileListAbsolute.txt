@@ -1,6 +1,0 @@
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\10_ThrowException\bin\Debug\10_ThrowException.exe.config
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\10_ThrowException\bin\Debug\10_ThrowException.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\10_ThrowException\bin\Debug\10_ThrowException.pdb
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\10_ThrowException\obj\Debug\10_ThrowException.csproj.CoreCompileInputs.cache
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\10_ThrowException\obj\Debug\10_ThrowException.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\10_ThrowException\obj\Debug\10_ThrowException.pdb

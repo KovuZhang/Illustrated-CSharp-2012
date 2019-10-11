@@ -1,6 +1,0 @@
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\9_2_ExceptionCallStack\bin\Debug\9_2_ExceptionCallStack.exe.config
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\9_2_ExceptionCallStack\bin\Debug\9_2_ExceptionCallStack.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\9_2_ExceptionCallStack\bin\Debug\9_2_ExceptionCallStack.pdb
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\9_2_ExceptionCallStack\obj\Debug\9_2_ExceptionCallStack.csproj.CoreCompileInputs.cache
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\9_2_ExceptionCallStack\obj\Debug\9_2_ExceptionCallStack.exe
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter22\9_2_ExceptionCallStack\obj\Debug\9_2_ExceptionCallStack.pdb
