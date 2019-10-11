@@ -1,0 +1,15 @@
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\bin\Debug\AsyncLambda.exe.config
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\bin\Debug\AsyncLambda.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\bin\Debug\AsyncLambda.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\MainWindow.g.cs
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\App.g.cs
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda_MarkupCompile.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda_MarkupCompile.lref
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\MainWindow.baml
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.g.resources
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.Properties.Resources.resources
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.csproj.GenerateResource.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\AsyncLambda\obj\Debug\AsyncLambda.pdb

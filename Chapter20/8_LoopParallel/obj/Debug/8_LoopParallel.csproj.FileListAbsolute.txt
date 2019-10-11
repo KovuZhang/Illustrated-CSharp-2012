@@ -1,0 +1,6 @@
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\8_LoopParallel\bin\Debug\8_LoopParallel.exe.config
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\8_LoopParallel\bin\Debug\8_LoopParallel.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\8_LoopParallel\bin\Debug\8_LoopParallel.pdb
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\8_LoopParallel\obj\Debug\8_LoopParallel.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\8_LoopParallel\obj\Debug\8_LoopParallel.exe
+D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter20\8_LoopParallel\obj\Debug\8_LoopParallel.pdb

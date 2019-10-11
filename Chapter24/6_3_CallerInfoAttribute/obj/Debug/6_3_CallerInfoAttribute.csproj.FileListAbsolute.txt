@@ -1,7 +1,6 @@
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\bin\Debug\6_3_CallerInfoAttribute.exe.config
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\bin\Debug\6_3_CallerInfoAttribute.exe
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\bin\Debug\6_3_CallerInfoAttribute.pdb
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\obj\Debug\6_3_CallerInfoAttribute.csprojAssemblyReference.cache
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\obj\Debug\6_3_CallerInfoAttribute.csproj.CoreCompileInputs.cache
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\obj\Debug\6_3_CallerInfoAttribute.exe
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter24\6_3_CallerInfoAttribute\obj\Debug\6_3_CallerInfoAttribute.pdb

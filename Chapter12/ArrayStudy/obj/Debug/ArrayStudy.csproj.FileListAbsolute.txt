@@ -1,7 +1,6 @@
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\bin\Debug\ArrayStudy.exe.config
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\bin\Debug\ArrayStudy.exe
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\bin\Debug\ArrayStudy.pdb
-D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\obj\Debug\ArrayStudy.csprojAssemblyReference.cache
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\obj\Debug\ArrayStudy.csproj.CoreCompileInputs.cache
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\obj\Debug\ArrayStudy.exe
 D:\StudySpace\VisualCSharp\Illustrated-CSharp-2012\Chapter12\ArrayStudy\obj\Debug\ArrayStudy.pdb
