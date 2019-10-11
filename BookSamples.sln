@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter01", "Chapter01", "{F79BB197-AE1E-46E8-90C4-2EAC4F4AD81C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter02", "Chapter02", "{DE7FBDCA-8686-43BC-8E07-DBE06181410C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter03", "Chapter03", "{3D3DFB15-B307-4EA9-AF5F-F038C7AFF49D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter04", "Chapter04", "{5A25020A-D0C7-42EA-B8C4-B1A50698636A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter15", "Chapter15", "{F6DB79E5-A7E5-4913-814E-F071E124A1B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter19", "Chapter19", "{3C71D4E5-E026-4825-A32D-2021DEB6C846}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter20", "Chapter20", "{82C5DF5E-CADF-4017-9F19-8125C5A46912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter21", "Chapter21", "{7438C6D4-4E7B-4CE2-AB44-3E6F9BE5A629}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter22", "Chapter22", "{A7CE1034-6F40-4576-A50E-27030F3C4DDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter23", "Chapter23", "{29D6DFC3-8CC7-40D5-9757-40FD444A9C56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter24", "Chapter24", "{47CF9E8C-C54E-4039-90F5-307ADFF0F4AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter25", "Chapter25", "{4DA30CAE-B0E7-4AC1-9717-39BD5D8FF1D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter05", "Chapter05", "{99BAEF65-53DD-4252-99C4-483CE0206378}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter06", "Chapter06", "{9B8830AD-ED17-4B58-B0AA-4CFA034A3670}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07", "Chapter07", "{569A608F-1804-488E-8966-5DFF63F707C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter08", "Chapter08", "{D4196D9B-EE64-4815-ACFE-E3C66E9C64C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter09", "Chapter09", "{C0015AE3-8BAC-4AFB-8473-43E605865D64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter10", "Chapter10", "{DE3A2539-7CC2-4311-80EE-0924F8C14A7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter11", "Chapter11", "{0106B403-76D2-454C-B250-ACBCAC1E7FF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter12", "Chapter12", "{5210ED59-8F89-4AC8-A8F7-D92CECA9D0FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter13", "Chapter13", "{451C6DAB-E1FE-4D0E-A4BE-E28D60ED5EE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter14", "Chapter14", "{EFCF71E9-56AD-4C94-ADCC-5E157705FF49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter16", "Chapter16", "{11EA9F44-6C35-49B7-886F-F8358233CAB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter17", "Chapter17", "{688E6092-B5D0-4F52-9262-101D86D69510}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter18", "Chapter18", "{16E0C5E8-A0FB-427B-8A40-14146F6C10E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_typeofOperator", "Chapter08\16_typeofOperator\16_typeofOperator.csproj", "{BAFB616C-B9C1-4CD2-9EF6-58DC49EB961C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFB616C-B9C1-4CD2-9EF6-58DC49EB961C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFB616C-B9C1-4CD2-9EF6-58DC49EB961C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFB616C-B9C1-4CD2-9EF6-58DC49EB961C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFB616C-B9C1-4CD2-9EF6-58DC49EB961C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAFB616C-B9C1-4CD2-9EF6-58DC49EB961C} = {D4196D9B-EE64-4815-ACFE-E3C66E9C64C6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF32444-BFEB-4B64-A014-F9AF9E1C06BC}
+	EndGlobalSection
+EndGlobal
